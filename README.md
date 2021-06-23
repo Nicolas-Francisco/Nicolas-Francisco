@@ -1,14 +1,19 @@
-<h2 align="center">
+<h1 align="center">
   Hello World 👋 I’m Nicolas
-</h2>
+</h1>
 <p align="center">
   I'm a Computer Science Engineering Student at FCFM, University of Chile
 </p>
  
-## :information_source: About me
+<h2 align="center">
+  :information_source: About me
+</h2>
+
 - :telescope: I’m currently learning: Software Engineering, Programming Languages, Web Applications, Data Minning and French
 - :metal: Fun fact: I love Metal and wear black clothes only.
 - 📫 You can contact me by E-Mail or Linkedin
+
+
 <p align="center">
   <a href="mailto:nicolas.garcia.r@ug.uchile.cl">
     <img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -18,8 +23,10 @@
   </a>
 </p>
 
-## :computer: Languages / Frameworks / Databases
-<p align="left">
+<h2 align="center">
+  :computer: Languages :computer:
+</h2>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -32,8 +39,10 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-## 🛠️ IDEs / Tools
-<p align="left">
+<h2 align="center">
+  🛠️ Tools 🛠️
+</h2>
+<p align="center">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
