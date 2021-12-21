@@ -34,6 +34,7 @@
     <img alt="Git" src="https://img.shields.io/badge/git-%23121011.svg?&style=flat-square&logo=git&logoColor=orange"/>
     <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   </p>
   
   <p align="left">
@@ -42,6 +43,7 @@
     <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/Angular-092E20?style=flat-square&logo=angular&logoColor=red" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   </p>
   
   <p align="left">
