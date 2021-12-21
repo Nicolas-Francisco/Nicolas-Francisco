@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://github.com/Nicolas-Francisco">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Francisco&langs_count=8&exclude_repo=Sarcastic-messages-analysis&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Francisco&layout=compact&langs_count=8&exclude_repo=Sarcastic-messages-analysis&theme=dark" />
   </a>
 </p>
 </details>
