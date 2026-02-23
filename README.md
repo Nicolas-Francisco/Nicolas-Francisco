@@ -5,13 +5,14 @@
   I’m Nicolas
 </p>
 <p align="center">
-  Computer Science Engineering Student at FCFM, University of Chile
+  Computer Science Engineer graduated from, University of Chile
+  Currently working as Software Engineer
 </p>
 <p align="center">
-  <a href="mailto:nicolas.garcia.r@ug.uchile.cl">
+  <a href="mailto:nicolasfr.garcia.r@gmail.com">
     <img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=flat-squaree&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-garc%C3%ADa-r%C3%ADos-47a16a201/">
+  <a href="https://www.linkedin.com/in/nicolasfr-garcia">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -58,18 +59,3 @@
 
 </details>
 
-<details>
-  <summary><b>📈 &nbsp;Statistics</b></summary>
-  <br/>
-    <p align="center">
-  <a href="https://github.com/Nicolas-Francisco">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Francisco&count_private=true&hide=contribs,issues&show_icons=true&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nicolas-Francisco">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Francisco&layout=compact&langs_count=8&exclude_repo=Sarcastic-messages-analysis&theme=dark" />
-  </a>
-</p>
-</details>
