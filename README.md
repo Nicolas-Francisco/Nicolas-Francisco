@@ -5,7 +5,9 @@
   I’m Nicolas
 </p>
 <p align="center">
-  Computer Science Engineer graduated from, University of Chile
+  Computer Science Engineer graduated from FCFM, University of Chile
+</p>
+<p align="center">
   Currently working as Software Engineer
 </p>
 <p align="center">
